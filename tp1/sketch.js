@@ -1,4 +1,4 @@
- //https://youtu.be/_eaoHdClW8g 
+  
  let estaDibujando = false;
 let anteriorX, anteriorY;
 
